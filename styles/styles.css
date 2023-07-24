@@ -326,6 +326,18 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
   width: 70%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .bur {
+  width: 100%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .eng {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .sp {
+  width: 50%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .jp {
+  width: 40%;
+}
 
 .stat-title {
   text-transform: uppercase;
